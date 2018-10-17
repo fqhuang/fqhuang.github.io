@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: toby的博客 | BY Blog
+title: Toby Blog
+SEOTitle: toby的博客 | Toby Blog
 header-img: img/post-bg-desk.jpg
 email: fqhuang@foxmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, toby的博客, fqhuang, cloud, stream processing, VM, KVM, kubernetes, docker"
+keyword: "Toby, Toby Blog, toby的博客, fqhuang, cloud, stream processing, VM, KVM, kubernetes, docker"
 url: "http://fqhuang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fqhuang/fqhuang.github.io.git" # you code repository
@@ -12,13 +12,12 @@ github_repo: "https://github.com/fqhuang/fqhuang.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-toby-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-RSS: false
-weibo_username:     Toby-hfq
+weixin_username:     Toby-hfq
 github_username:    fqhuang
 
 
