@@ -1,7 +1,7 @@
 # Site settings
 title: Toby Blog
 SEOTitle: toby的博客 | Toby Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-F.jpg
 email: fqhuang@foxmail.com
 description: "Every failure is leading towards success."
 keyword: "Toby, Toby Blog, toby的博客, fqhuang, cloud, stream processing, VM, KVM, kubernetes, docker"
@@ -17,7 +17,9 @@ sidebar-avatar: /img/about-toby-gentle.jpg      # use absolute URL, seeing it's 
 
 
 # SNS settings
-weixin_username:     Toby-hfq
+RSS: false
+weixin_username:    Toby-hfq
+jianshu_username:   Toby-hfq
 github_username:    fqhuang
 
 
