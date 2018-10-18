@@ -19,9 +19,7 @@ sidebar-avatar: /img/about-toby-gentle.jpg      # use absolute URL, seeing it's 
 # SNS settings
 RSS: false
 weixin_username:    Toby-hfq
-jianshu_username:   Toby-hfq
 github_username:    fqhuang
-
 
 
 # Build settings
@@ -35,7 +33,9 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
+plugins:
+ - jekyll-feed
 
 
 
@@ -108,3 +108,5 @@ service-worker: true
 #        href: "https://developer.apple.com/"
 #    }
 #]
+
+port: 4001
