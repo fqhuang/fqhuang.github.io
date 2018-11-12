@@ -1,10 +1,10 @@
 # Site settings
-title: Toby Blog
-SEOTitle: toby的博客 | Toby Blog
+title: Toby's Blog
+SEOTitle: toby的博客 | Toby's Blog
 header-img: img/post-bg-2015.jpg
 email: fqhuang@foxmail.com
 description: "Every failure is leading towards success."
-keyword: "Toby, Toby Blog, toby的博客, fqhuang, cloud, stream processing, VM, KVM, kubernetes, docker"
+keyword: "Toby, Toby's Blog, toby的博客, fqhuang, cloud, stream processing, VM, KVM, kubernetes, docker"
 url: "http://fqhuang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fqhuang/fqhuang.github.io.git" # you code repository
